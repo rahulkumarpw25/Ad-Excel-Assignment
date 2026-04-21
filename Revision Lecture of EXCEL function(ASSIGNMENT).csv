@@ -1,0 +1,51 @@
+Emp_ID,Name,Department,Score,City,Bonus_Eligible,Salary,Salary Type(Question 8),"type performer(if,and,9 question)",marketing staff,zone based mapping,,
+1001,Aarav Sharma,Marketing,67,Mumbai,Yes,38545,Regular Salary,Regular Performer,MumbaiMarketing Staff,West zone - Marketing,,VLOOKUP QUESTIONS
+1002,Vivaan Mehta,Operations,86,Chennai,No,91199,High Salary,Good Performer,ChennaiOperations Staff,South Zone   -Operations,1),"Using VLOOKUP, find the Salary of “Yuvraj Patel”."
+1003,Aditya Nair,Finance,99,Chennai,Yes,59766,Regular Salary,Regular Performer,ChennaiFinance Staff,South Zone   -Finance,,87003
+1004,Krishna Rao,Operations,46,Mumbai,No,86087,High Salary,Regular Performer,MumbaiOperations Staff,West zone - Operations,2),"Using VLOOKUP, return the Department of Emp_ID = 1031."
+1005,Rohan Verma,Operations,83,Mumbai,Yes,93840,High Salary,Regular Performer,MumbaiOperations Staff,West zone - Operations,,Finance
+1006,Ishaan Gupta,HR,47,Mumbai,Yes,79384,High Salary,Regular Performer,MumbaiHR Staff,West zone - HR,3),Use VLOOKUP to find the City of “Sneha Chakraborty”.
+1007,Arjun Kulkarni,Finance,86,Mumbai,Yes,76005,High Salary,Good Performer,MumbaiFinance Staff,West zone - Finance,,Delhi
+1008,Kabir Singh,Finance,74,Bengaluru,No,71576,High Salary,Regular Performer,BengaluruFinance Staff,South Zone   -Finance,4),"Using VLOOKUP, fetch the Score for Emp_ID = 1050."
+1009,Atharv Joshi,Finance,53,Pune,No,64353,Regular Salary,Regular Performer,PuneFinance Staff,West zone - Finance,,84
+1010,Yuvraj Patel,Operations,56,Pune,No,87003,High Salary,Regular Performer,PuneOperations Staff,West zone - Operations,5),VLOOKUP: Find the Bonus_Eligible status of “Tara Chawla”.
+1011,Ananya Iyer,Marketing,75,Mumbai,No,77733,High Salary,Regular Performer,MumbaiMarketing Staff,West zone - Marketing,,No
+1012,Diya Menon,Finance,89,Pune,Yes,90318,High Salary,Good Performer,PuneFinance Staff,West zone - Finance,,
+1013,Aadhya Desai,Operations,79,Pune,No,48664,Regular Salary,Regular Performer,PuneOperations Staff,West zone - Operations,,
+1014,Myra Kapoor,HR,43,Mumbai,Yes,92172,High Salary,Regular Performer,MumbaiHR Staff,West zone - HR,,
+1015,Saanvi Reddy,Marketing,41,Pune,Yes,51736,Regular Salary,Regular Performer,PuneMarketing Staff,West zone - Marketing,,
+1016,Ira Khanna,HR,45,Chennai,No,25854,Regular Salary,Regular Performer,ChennaiHR Staff,South Zone   -HR,,
+1017,Meera Bansal,Marketing,93,Delhi,No,63623,Regular Salary,Good Performer,DelhiMarketing Staff,North Zone-Marketing,,
+1018,Tara Chawla,Operations,81,Delhi,No,32392,Regular Salary,Regular Performer,DelhiOperations Staff,North Zone-Operations,,
+1019,Riya Malhotra,Sales,43,Mumbai,No,80680,High Salary,Regular Performer,MumbaiSales Staff,West zone - Sales,,
+1020,Nisha Shah,Marketing,93,Bengaluru,No,71717,High Salary,Good Performer,BengaluruMarketing Staff,South Zone   -Marketing,,
+1021,Siddharth Sinha,HR,68,Mumbai,No,75859,High Salary,Regular Performer,MumbaiHR Staff,West zone - HR,,
+1022,Harsh Vardhan,Operations,57,Bengaluru,No,51309,Regular Salary,Regular Performer,BengaluruOperations Staff,South Zone   -Operations,,
+1023,Pranav Chatterjee,Marketing,65,Delhi,No,88734,High Salary,Regular Performer,DelhiMarketing Staff,North Zone-Marketing,,
+1024,Manav Bhatt,Sales,83,Mumbai,Yes,77662,High Salary,Regular Performer,MumbaiSales Staff,West zone - Sales,,
+1025,Dev Goel,Sales,73,Chennai,No,37688,Regular Salary,Regular Performer,ChennaiSales Staff,South Zone   -Sales,,
+1026,Kunal Saxena,Finance,49,Pune,No,50342,Regular Salary,Regular Performer,PuneFinance Staff,West zone - Finance,,
+1027,Ritvik Anand,Finance,75,Bengaluru,Yes,62157,Regular Salary,Regular Performer,BengaluruFinance Staff,South Zone   -Finance,,
+1028,Shaurya Tandon,HR,53,Pune,No,92863,High Salary,Regular Performer,PuneHR Staff,West zone - HR,,
+1029,Ayush Mittal,Marketing,70,Pune,Yes,77083,High Salary,Regular Performer,PuneMarketing Staff,West zone - Marketing,,
+1030,Sameer Dubey,Marketing,87,Mumbai,Yes,90733,High Salary,Good Performer,MumbaiMarketing Staff,West zone - Marketing,,
+1031,Neha Mishra,Finance,54,Pune,No,59698,Regular Salary,Regular Performer,PuneFinance Staff,West zone - Finance,,
+1032,Pooja Agarwal,Marketing,47,Chennai,Yes,47671,Regular Salary,Regular Performer,ChennaiMarketing Staff,South Zone   -Marketing,,
+1033,Kavya Shetty,Marketing,53,Pune,Yes,50184,Regular Salary,Regular Performer,PuneMarketing Staff,West zone - Marketing,,
+1034,Aarti Singh,Sales,62,Mumbai,Yes,67107,Regular Salary,Regular Performer,MumbaiSales Staff,West zone - Sales,,
+1035,Juhi Shah,Finance,99,Chennai,Yes,76663,High Salary,Good Performer,ChennaiFinance Staff,South Zone   -Finance,,
+1036,Simran Kaur,Operations,96,Delhi,No,40708,Regular Salary,Regular Performer,DelhiOperations Staff,North Zone-Operations,,
+1037,Tanvi Jha,Finance,79,Pune,Yes,74811,High Salary,Regular Performer,PuneFinance Staff,West zone - Finance,,
+1038,Anjali Rana,Operations,60,Mumbai,No,27811,Regular Salary,Regular Performer,MumbaiOperations Staff,West zone - Operations,,
+1039,Sneha Chakraborty,Sales,55,Delhi,Yes,81250,High Salary,Regular Performer,DelhiSales Staff,North Zone-Sales,,
+1040,Radhika Jain,HR,84,Delhi,Yes,59754,Regular Salary,Regular Performer,DelhiHR Staff,North Zone-HR,,
+1041,Rachit Ahuja,Marketing,57,Bengaluru,Yes,36411,Regular Salary,Regular Performer,BengaluruMarketing Staff,South Zone   -Marketing,,
+1042,Varun Malhotra,Sales,86,Chennai,Yes,27911,Regular Salary,Regular Performer,ChennaiSales Staff,South Zone   -Sales,,
+1043,Nikhil Kapoor,Marketing,92,Pune,No,92270,High Salary,Good Performer,PuneMarketing Staff,West zone - Marketing,,
+1044,Rahul Suri,HR,63,Mumbai,No,33680,Regular Salary,Regular Performer,MumbaiHR Staff,West zone - HR,,
+1045,Mohit Batra,HR,65,Bengaluru,Yes,36111,Regular Salary,Regular Performer,BengaluruHR Staff,South Zone   -HR,,
+1046,Gaurav Khurana,Sales,64,Chennai,Yes,62504,Regular Salary,Regular Performer,ChennaiSales Staff,South Zone   -Sales,,
+1047,Ravi Shukla,HR,99,Bengaluru,No,26802,Regular Salary,Regular Performer,BengaluruHR Staff,South Zone   -HR,,
+1048,Amit Deshmukh,Operations,99,Chennai,Yes,33155,Regular Salary,Regular Performer,ChennaiOperations Staff,South Zone   -Operations,,
+1049,Karan Gill,HR,99,Chennai,Yes,64384,Regular Salary,Good Performer,ChennaiHR Staff,South Zone   -HR,,
+1050,Suresh Pillai,Marketing,84,Pune,Yes,72254,High Salary,Regular Performer,PuneMarketing Staff,West zone - Marketing,,
